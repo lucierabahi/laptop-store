@@ -1,5 +1,5 @@
 # laptop-store
-Node.js Crash Course
+Node.js Crash Course, a project realized as part of the "Complete JavaScript Course" of Jonas Schmedtmann on Udemy.
                                
 ---        
               
